@@ -1,4 +1,5 @@
 import react from "React";
+import logo from './logo.svg';
 
 const Component = () => {
     return (
