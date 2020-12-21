@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/eat-today/static/css/main.d601972f.chunk.css",
+    "main.js": "/eat-today/static/js/main.46a8b100.chunk.js",
+    "main.js.map": "/eat-today/static/js/main.46a8b100.chunk.js.map",
+    "runtime-main.js": "/eat-today/static/js/runtime-main.89654f3a.js",
+    "runtime-main.js.map": "/eat-today/static/js/runtime-main.89654f3a.js.map",
+    "static/js/2.6bce5c21.chunk.js": "/eat-today/static/js/2.6bce5c21.chunk.js",
+    "static/js/2.6bce5c21.chunk.js.map": "/eat-today/static/js/2.6bce5c21.chunk.js.map",
+    "index.html": "/eat-today/index.html",
+    "static/css/main.d601972f.chunk.css.map": "/eat-today/static/css/main.d601972f.chunk.css.map",
+    "static/js/2.6bce5c21.chunk.js.LICENSE.txt": "/eat-today/static/js/2.6bce5c21.chunk.js.LICENSE.txt",
+    "static/media/RecipePage.module.css": "/eat-today/static/media/1607637382242.a8448a2c.jpg",
+    "static/media/healthy-eating.dfcb29dc.png": "/eat-today/static/media/healthy-eating.dfcb29dc.png",
+    "static/media/RecipeList.module.css": "/eat-today/static/media/makephotogallery.net_1607595311.1c6a4e36.png",
+    "static/media/meat.1d45b36f.png": "/eat-today/static/media/meat.1d45b36f.png",
+    "static/media/pizza.19859826.png": "/eat-today/static/media/pizza.19859826.png",
+    "static/media/ramen.8ed59617.png": "/eat-today/static/media/ramen.8ed59617.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89654f3a.js",
+    "static/js/2.6bce5c21.chunk.js",
+    "static/css/main.d601972f.chunk.css",
+    "static/js/main.46a8b100.chunk.js"
+  ]
+}
