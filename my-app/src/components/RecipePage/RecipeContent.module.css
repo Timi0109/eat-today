@@ -1,0 +1,105 @@
+.contentContainer{
+    width: 80%;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.listContainer{
+    background-color: #f3bad6;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.outerRecipeContainer{
+    height: 1000px;
+    width: 99%;
+    margin-top: 10px;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: white;
+    overflow: scroll;
+}
+
+
+.recipeContainer{
+    width: 100%;
+    margin-bottom: 40px;
+    display: flex;
+}
+
+.title{
+    width: 100%;
+}
+
+.title:hover .meat{
+    color: #ea86b6;
+}
+
+.title:hover .veggies{
+    color: #ea86b6;
+}
+
+
+.recipeName{
+    font-size: 35px;
+    font-weight: bold;
+    color: #ea86b6;
+}
+
+.link{
+    text-decoration: none;
+    text-align: left;
+}
+
+
+.meat, .veggies{
+    color: rgb(114, 113, 113);
+    font-size: 20px;
+}
+
+.recipeImg{
+    margin-left: 20px;
+    margin-top: 40px;
+    width: 50%;
+    border: solid 1px;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    color: silver;
+    margin-right: 40px;
+    float: left;
+}
+
+.searchContainer{
+    margin-bottom: 20px;
+}
+
+.searchInput{
+    background-color: transparent;
+    width: 98%;
+    height: 40px;
+    outline: none;
+    border-color: transparent;
+    border-bottom: 1px solid silver;
+    font-size: 20px;
+}
+.searchInput:hover{
+    border-bottom: 4px solid #ea86b6;
+    color: #ea86b6;
+}
+.searchInput::-webkit-input-placeholder {
+    color: silver;
+}
+.searchInput:hover::-webkit-input-placeholder {
+    color: #ea86b6;
+}
+
+hr{
+    border: solid 1px;
+    border-bottom: none;
+    color: pink;
+}
+
